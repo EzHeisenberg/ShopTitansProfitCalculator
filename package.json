@@ -1,5 +1,5 @@
 {
-  "name": "untitled1",
+  "name": "shop-titans-calculator",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,8 +10,10 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "register-service-worker": "^1.7.1",
+    "select2": "~4.0",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0"
+    "vue-router": "^3.2.0",
+    "vue-search-select": "^2.9.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",

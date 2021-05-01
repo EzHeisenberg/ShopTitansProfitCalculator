@@ -1,24 +1,28 @@
-# untitled1
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
+### Template :
+
+- Get all WorkSheetID :
+
 ```
-npm run serve
+https://spreadsheets.google.com/feeds/worksheets/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/public/basic?alt=json
 ```
 
-### Compiles and minifies for production
+- Get json from page :
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+https://spreadsheets.google.com/feeds/list/spreadsheetID/worksheetID/public/values?alt=json
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+SpreadsheetID = 1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c
+
+
+WordsheetID_Blueprints = oprqe8m
+WordsheetID_WorkerLevels = o64b2jf
+WordsheetID_MarchantLevels = oqi5yt2
+
+
+- link to get json of blueprint sheet :
+```
+https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oprqe8m/public/values?alt=json
+```

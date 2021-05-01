@@ -1,0 +1,4124 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+    "id": {
+      "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values"
+    },
+    "updated": {
+      "$t": "2021-04-30T15:06:37.513Z"
+    },
+    "category": [
+      {
+        "scheme": "http://schemas.google.com/spreadsheets/2006",
+        "term": "http://schemas.google.com/spreadsheets/2006#list"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Merchant Levels"
+    },
+    "link": [
+      {
+        "rel": "alternate",
+        "type": "application/atom+xml",
+        "href": "https://docs.google.com/spreadsheets/u/0/d/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/pubhtml"
+      },
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values"
+      },
+      {
+        "rel": "http://schemas.google.com/g/2005#post",
+        "type": "application/atom+xml",
+        "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values?alt\u003djson"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "personal.richardpichardo"
+        },
+        "email": {
+          "$t": "personal.richardpichardo@gmail.com"
+        }
+      }
+    ],
+    "openSearch$totalResults": {
+      "$t": "99"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/cokwr"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "1"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: ---, gemreward: 5, marketitemtierunlock: 1"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/cokwr"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "1"
+        },
+        "gsx$xpneeded": {
+          "$t": "---"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "1"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/cpzh4"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "2"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 600, gemreward: 5, marketitemtierunlock: 1"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/cpzh4"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "2"
+        },
+        "gsx$xpneeded": {
+          "$t": "600"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "1"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/cre1l"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "3"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 900, gemreward: 5, marketitemtierunlock: 1"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/cre1l"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "3"
+        },
+        "gsx$xpneeded": {
+          "$t": "900"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "1"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/chk2m"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "4"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 1,400, gemreward: 5, marketitemtierunlock: 1"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/chk2m"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "4"
+        },
+        "gsx$xpneeded": {
+          "$t": "1,400"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "1"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ciyn3"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "5"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 2,100, gemreward: 5, marketitemtierunlock: 1"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ciyn3"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "5"
+        },
+        "gsx$xpneeded": {
+          "$t": "2,100"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "1"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ckd7g"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "6"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 3,100, gemreward: 5, marketitemtierunlock: 1"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ckd7g"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "6"
+        },
+        "gsx$xpneeded": {
+          "$t": "3,100"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "1"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/clrrx"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "7"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 4,500, gemreward: 5, marketitemtierunlock: 2"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/clrrx"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "7"
+        },
+        "gsx$xpneeded": {
+          "$t": "4,500"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "2"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/cyevm"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "8"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 6,400, gemreward: 5, marketitemtierunlock: 2"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/cyevm"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "8"
+        },
+        "gsx$xpneeded": {
+          "$t": "6,400"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "2"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/cztg3"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "9"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 9,100, gemreward: 5, marketitemtierunlock: 2"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/cztg3"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "9"
+        },
+        "gsx$xpneeded": {
+          "$t": "9,100"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "2"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/d180g"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "10"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 14,300, gemreward: 5, marketitemtierunlock: 2"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/d180g"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "10"
+        },
+        "gsx$xpneeded": {
+          "$t": "14,300"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "2"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/d2mkx"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "11"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 20,500, gemreward: 5, marketitemtierunlock: 2"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/d2mkx"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "11"
+        },
+        "gsx$xpneeded": {
+          "$t": "20,500"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "2"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/cssly"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "12"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 27,800, gemreward: 5, marketitemtierunlock: 2"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/cssly"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "12"
+        },
+        "gsx$xpneeded": {
+          "$t": "27,800"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "2"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/cu76f"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "13"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 36,400, gemreward: 5, marketitemtierunlock: 2"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/cu76f"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "13"
+        },
+        "gsx$xpneeded": {
+          "$t": "36,400"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "2"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/cvlqs"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "14"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 46,600, gemreward: 5, marketitemtierunlock: 2"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/cvlqs"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "14"
+        },
+        "gsx$xpneeded": {
+          "$t": "46,600"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "2"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/cx0b9"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "15"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 58,600, gemreward: 5, marketitemtierunlock: 3"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/cx0b9"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "15"
+        },
+        "gsx$xpneeded": {
+          "$t": "58,600"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "3"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/d9ney"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "16"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 72,800, gemreward: 5, marketitemtierunlock: 3"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/d9ney"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "16"
+        },
+        "gsx$xpneeded": {
+          "$t": "72,800"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "3"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/db1zf"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "17"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 89,500, gemreward: 5, marketitemtierunlock: 3"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/db1zf"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "17"
+        },
+        "gsx$xpneeded": {
+          "$t": "89,500"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "3"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dcgjs"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "18"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 109,300, gemreward: 5, marketitemtierunlock: 3"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dcgjs"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "18"
+        },
+        "gsx$xpneeded": {
+          "$t": "109,300"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "3"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ddv49"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "19"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 132,600, gemreward: 5, marketitemtierunlock: 3"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ddv49"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "19"
+        },
+        "gsx$xpneeded": {
+          "$t": "132,600"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "3"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/d415a"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "20"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 160,100, gemreward: 5, marketitemtierunlock: 3"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/d415a"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "20"
+        },
+        "gsx$xpneeded": {
+          "$t": "160,100"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "3"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/d5fpr"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "21"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 192,600, gemreward: 5, marketitemtierunlock: 4"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/d5fpr"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "21"
+        },
+        "gsx$xpneeded": {
+          "$t": "192,600"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "4"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/d6ua4"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "22"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 231,000, gemreward: 5, marketitemtierunlock: 4"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/d6ua4"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "22"
+        },
+        "gsx$xpneeded": {
+          "$t": "231,000"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "4"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/d88ul"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "23"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 276,300, gemreward: 5, marketitemtierunlock: 4"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/d88ul"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "23"
+        },
+        "gsx$xpneeded": {
+          "$t": "276,300"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "4"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dkvya"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "24"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 329,800, gemreward: 5, marketitemtierunlock: 4"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dkvya"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "24"
+        },
+        "gsx$xpneeded": {
+          "$t": "329,800"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "4"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dmair"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "25"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 392,900, gemreward: 5, marketitemtierunlock: 4"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dmair"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "25"
+        },
+        "gsx$xpneeded": {
+          "$t": "392,900"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "4"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dnp34"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "26"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 467,400, gemreward: 5, marketitemtierunlock: 4"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dnp34"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "26"
+        },
+        "gsx$xpneeded": {
+          "$t": "467,400"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "4"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dp3nl"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "27"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 555,300, gemreward: 5, marketitemtierunlock: 4"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dp3nl"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "27"
+        },
+        "gsx$xpneeded": {
+          "$t": "555,300"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "4"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/df9om"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "28"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 659,100, gemreward: 5, marketitemtierunlock: 5"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/df9om"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "28"
+        },
+        "gsx$xpneeded": {
+          "$t": "659,100"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "5"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dgo93"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "29"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 781,600, gemreward: 5, marketitemtierunlock: 5"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dgo93"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "29"
+        },
+        "gsx$xpneeded": {
+          "$t": "781,600"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "5"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/di2tg"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "30"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 926,100, gemreward: 5, marketitemtierunlock: 5"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/di2tg"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "30"
+        },
+        "gsx$xpneeded": {
+          "$t": "926,100"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "5"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/djhdx"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "31"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 1,096,700, gemreward: 5, marketitemtierunlock: 5"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/djhdx"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "31"
+        },
+        "gsx$xpneeded": {
+          "$t": "1,096,700"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "5"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dw4je"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "32"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 1,298,100, gemreward: 5, marketitemtierunlock: 5"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dw4je"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "32"
+        },
+        "gsx$xpneeded": {
+          "$t": "1,298,100"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "5"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dxj3v"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "33"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 1,535,800, gemreward: 5, marketitemtierunlock: 5"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dxj3v"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "33"
+        },
+        "gsx$xpneeded": {
+          "$t": "1,535,800"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "5"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dyxo8"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "34"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 1,816,300, gemreward: 5, marketitemtierunlock: 5"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dyxo8"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "34"
+        },
+        "gsx$xpneeded": {
+          "$t": "1,816,300"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "5"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/e0c8p"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "35"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 2,147,400, gemreward: 5, marketitemtierunlock: 6"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/e0c8p"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "35"
+        },
+        "gsx$xpneeded": {
+          "$t": "2,147,400"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "6"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dqi9q"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "36"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 2,538,200, gemreward: 5, marketitemtierunlock: 6"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dqi9q"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "36"
+        },
+        "gsx$xpneeded": {
+          "$t": "2,538,200"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "6"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/drwu7"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "37"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 2,999,500, gemreward: 5, marketitemtierunlock: 6"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/drwu7"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "37"
+        },
+        "gsx$xpneeded": {
+          "$t": "2,999,500"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "6"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dtbek"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "38"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 3,544,000, gemreward: 5, marketitemtierunlock: 6"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dtbek"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "38"
+        },
+        "gsx$xpneeded": {
+          "$t": "3,544,000"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "6"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dupz1"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "39"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 4,186,700, gemreward: 5, marketitemtierunlock: 6"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/dupz1"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "39"
+        },
+        "gsx$xpneeded": {
+          "$t": "4,186,700"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "6"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/e7d2q"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "40"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 4,945,300, gemreward: 5, marketitemtierunlock: 7"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/e7d2q"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "40"
+        },
+        "gsx$xpneeded": {
+          "$t": "4,945,300"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "7"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/e8rn7"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "41"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 5,840,700, gemreward: 5, marketitemtierunlock: 7"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/e8rn7"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "41"
+        },
+        "gsx$xpneeded": {
+          "$t": "5,840,700"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "7"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ea67k"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "42"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 6,897,500, gemreward: 5, marketitemtierunlock: 7"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ea67k"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "42"
+        },
+        "gsx$xpneeded": {
+          "$t": "6,897,500"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "7"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ebks1"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "43"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 8,144,900, gemreward: 5, marketitemtierunlock: 7"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ebks1"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "43"
+        },
+        "gsx$xpneeded": {
+          "$t": "8,144,900"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "7"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/e1qt2"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "44"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 9,617,200, gemreward: 5, marketitemtierunlock: 7"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/e1qt2"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "44"
+        },
+        "gsx$xpneeded": {
+          "$t": "9,617,200"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "7"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/e35dj"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "45"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 11,355,000, gemreward: 5, marketitemtierunlock: 8"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/e35dj"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "45"
+        },
+        "gsx$xpneeded": {
+          "$t": "11,355,000"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "8"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/e4jxw"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "46"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 13,406,200, gemreward: 5, marketitemtierunlock: 8"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/e4jxw"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "46"
+        },
+        "gsx$xpneeded": {
+          "$t": "13,406,200"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "8"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/e5yid"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "47"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 15,827,200, gemreward: 5, marketitemtierunlock: 8"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/e5yid"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "47"
+        },
+        "gsx$xpneeded": {
+          "$t": "15,827,200"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "8"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/eilm2"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "48"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 18,684,800, gemreward: 5, marketitemtierunlock: 8"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/eilm2"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "48"
+        },
+        "gsx$xpneeded": {
+          "$t": "18,684,800"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "8"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ek06j"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "49"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 22,057,700, gemreward: 5, marketitemtierunlock: 8"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ek06j"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "49"
+        },
+        "gsx$xpneeded": {
+          "$t": "22,057,700"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "8"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/eleqw"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "50"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 26,038,800, gemreward: 5, marketitemtierunlock: 9"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/eleqw"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "50"
+        },
+        "gsx$xpneeded": {
+          "$t": "26,038,800"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "9"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/emtbd"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "51"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 30,737,700, gemreward: 5, marketitemtierunlock: 9"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/emtbd"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "51"
+        },
+        "gsx$xpneeded": {
+          "$t": "30,737,700"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "9"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/eczce"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "52"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 36,284,000, gemreward: 5, marketitemtierunlock: 9"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/eczce"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "52"
+        },
+        "gsx$xpneeded": {
+          "$t": "36,284,000"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "9"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/eedwv"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "53"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 42,830,400, gemreward: 5, marketitemtierunlock: 9"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/eedwv"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "53"
+        },
+        "gsx$xpneeded": {
+          "$t": "42,830,400"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "9"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/efsh8"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "54"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 50,557,200, gemreward: 5, marketitemtierunlock: 9"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/efsh8"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "54"
+        },
+        "gsx$xpneeded": {
+          "$t": "50,557,200"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "9"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/eh71p"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "55"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 59,677,300, gemreward: 5, marketitemtierunlock: 10"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/eh71p"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "55"
+        },
+        "gsx$xpneeded": {
+          "$t": "59,677,300"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "10"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/etu5e"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "56"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 70,442,000, gemreward: 5, marketitemtierunlock: 10"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/etu5e"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "56"
+        },
+        "gsx$xpneeded": {
+          "$t": "70,442,000"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "10"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ev8pv"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "57"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 83,147,700, gemreward: 5, marketitemtierunlock: 10"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ev8pv"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "57"
+        },
+        "gsx$xpneeded": {
+          "$t": "83,147,700"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "10"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ewna8"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "58"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 98,144,500, gemreward: 5, marketitemtierunlock: 10"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ewna8"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "58"
+        },
+        "gsx$xpneeded": {
+          "$t": "98,144,500"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "10"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ey1up"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "59"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 115,845,600, gemreward: 5, marketitemtierunlock: 10"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ey1up"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "59"
+        },
+        "gsx$xpneeded": {
+          "$t": "115,845,600"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "10"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/eo7vq"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "60"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 136,738,600, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/eo7vq"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "60"
+        },
+        "gsx$xpneeded": {
+          "$t": "136,738,600"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/epmg7"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "61"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 161,399,000, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/epmg7"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "61"
+        },
+        "gsx$xpneeded": {
+          "$t": "161,399,000"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/er10k"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "62"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 190,506,200, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/er10k"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "62"
+        },
+        "gsx$xpneeded": {
+          "$t": "190,506,200"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/esfl1"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "63"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 224,862,000, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/esfl1"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "63"
+        },
+        "gsx$xpneeded": {
+          "$t": "224,862,000"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/a59y2"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "64"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 265,412,900, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/a59y2"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "64"
+        },
+        "gsx$xpneeded": {
+          "$t": "265,412,900"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/a6oij"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "65"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 313,275,900, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/a6oij"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "65"
+        },
+        "gsx$xpneeded": {
+          "$t": "313,275,900"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/a832w"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "66"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 369,769,600, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/a832w"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "66"
+        },
+        "gsx$xpneeded": {
+          "$t": "369,769,600"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/a9hnd"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "67"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 436,450,300, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/a9hnd"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "67"
+        },
+        "gsx$xpneeded": {
+          "$t": "436,450,300"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/9znoe"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "68"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 515,154,900, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/9znoe"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "68"
+        },
+        "gsx$xpneeded": {
+          "$t": "515,154,900"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/a128v"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "69"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 608,051,500, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/a128v"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "69"
+        },
+        "gsx$xpneeded": {
+          "$t": "608,051,500"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/a2gt8"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "70"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 717,699,300, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/a2gt8"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "70"
+        },
+        "gsx$xpneeded": {
+          "$t": "717,699,300"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/a3vdp"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "71"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 847,118,900, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/a3vdp"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "71"
+        },
+        "gsx$xpneeded": {
+          "$t": "847,118,900"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/agihe"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "72"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 999,875,500, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/agihe"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "72"
+        },
+        "gsx$xpneeded": {
+          "$t": "999,875,500"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ahx1v"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "73"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 1,180,177,300, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ahx1v"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "73"
+        },
+        "gsx$xpneeded": {
+          "$t": "1,180,177,300"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ajbm8"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "74"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 1,392,991,200, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ajbm8"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "74"
+        },
+        "gsx$xpneeded": {
+          "$t": "1,392,991,200"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/akq6p"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "75"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 1,644,179,800, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/akq6p"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "75"
+        },
+        "gsx$xpneeded": {
+          "$t": "1,644,179,800"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/aaw7q"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "76"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 1,940,662,900, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/aaw7q"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "76"
+        },
+        "gsx$xpneeded": {
+          "$t": "1,940,662,900"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/acas7"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "77"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 2,290,608,100, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/acas7"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "77"
+        },
+        "gsx$xpneeded": {
+          "$t": "2,290,608,100"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/adpck"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "78"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 2,703,655,600, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/adpck"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "78"
+        },
+        "gsx$xpneeded": {
+          "$t": "2,703,655,600"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/af3x1"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "79"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 3,191,184,100, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/af3x1"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "79"
+        },
+        "gsx$xpneeded": {
+          "$t": "3,191,184,100"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/arr0q"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "80"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 3,766,624,000, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/arr0q"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "80"
+        },
+        "gsx$xpneeded": {
+          "$t": "3,766,624,000"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/at5l7"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "81"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 4,445,827,600, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/at5l7"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "81"
+        },
+        "gsx$xpneeded": {
+          "$t": "4,445,827,600"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/auk5k"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "82"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 5,247,505,700, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/auk5k"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "82"
+        },
+        "gsx$xpneeded": {
+          "$t": "5,247,505,700"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/avyq1"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "83"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 6,193,742,900, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/avyq1"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "83"
+        },
+        "gsx$xpneeded": {
+          "$t": "6,193,742,900"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/am4r2"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "84"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 7,310,606,100, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/am4r2"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "84"
+        },
+        "gsx$xpneeded": {
+          "$t": "7,310,606,100"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/anjbj"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "85"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 8,628,862,800, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/anjbj"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "85"
+        },
+        "gsx$xpneeded": {
+          "$t": "8,628,862,800"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/aoxvw"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "86"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 10,184,828,400, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/aoxvw"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "86"
+        },
+        "gsx$xpneeded": {
+          "$t": "10,184,828,400"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/aqcgd"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "87"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 12,021,366,700, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/aqcgd"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "87"
+        },
+        "gsx$xpneeded": {
+          "$t": "12,021,366,700"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/b2zk2"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "88"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 14,189,070,800, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/b2zk2"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "88"
+        },
+        "gsx$xpneeded": {
+          "$t": "14,189,070,800"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/b4e4j"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "89"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 16,747,656,700, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/b4e4j"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "89"
+        },
+        "gsx$xpneeded": {
+          "$t": "16,747,656,700"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/b5sow"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "90"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 19,767,608,400, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/b5sow"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "90"
+        },
+        "gsx$xpneeded": {
+          "$t": "19,767,608,400"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/b779d"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "91"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 23,332,119,700, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/b779d"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "91"
+        },
+        "gsx$xpneeded": {
+          "$t": "23,332,119,700"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/axdae"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "92"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 27,539,386,000, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/axdae"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "92"
+        },
+        "gsx$xpneeded": {
+          "$t": "27,539,386,000"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ayruv"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "93"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 32,505,309,200, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/ayruv"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "93"
+        },
+        "gsx$xpneeded": {
+          "$t": "32,505,309,200"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/b06f8"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "94"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 38,366,690,800, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/b06f8"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "94"
+        },
+        "gsx$xpneeded": {
+          "$t": "38,366,690,800"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/b1kzp"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "95"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 45,285,000,500, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/b1kzp"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "95"
+        },
+        "gsx$xpneeded": {
+          "$t": "45,285,000,500"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/be856"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "96"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 53,450,824,200, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/be856"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "96"
+        },
+        "gsx$xpneeded": {
+          "$t": "53,450,824,200"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/bfmpn"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "97"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 63,089,114,400, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/bfmpn"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "97"
+        },
+        "gsx$xpneeded": {
+          "$t": "63,089,114,400"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/bh1a0"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "98"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 74,465,387,300, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/bh1a0"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "98"
+        },
+        "gsx$xpneeded": {
+          "$t": "74,465,387,300"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/bifuh"
+        },
+        "updated": {
+          "$t": "2021-04-30T15:06:37.513Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "99"
+        },
+        "content": {
+          "type": "text",
+          "$t": "xpneeded: 87,893,036,900, gemreward: 5, marketitemtierunlock: 11"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1WLa7X8h3O0-aGKxeAlCL7bnN8-FhGd3t7pz2RCzSg8c/oqi5yt2/public/values/bifuh"
+          }
+        ],
+        "gsx$merchantlevel": {
+          "$t": "99"
+        },
+        "gsx$xpneeded": {
+          "$t": "87,893,036,900"
+        },
+        "gsx$gemreward": {
+          "$t": "5"
+        },
+        "gsx$marketitemtierunlock": {
+          "$t": "11"
+        }
+      }
+    ]
+  }
+}

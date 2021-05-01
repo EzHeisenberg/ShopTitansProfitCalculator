@@ -1,18 +1,30 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h1 class="p-3 title">profit calculator</h1>
+
+    <div class="container">
+      <ProfitMarket></ProfitMarket>
+    </div>
   </div>
 </template>
 
+
+<style lang="sass">
+
+</style>
+
+
+
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
+import ProfitMarket from '@/components/ProfitMarket.vue'
+
+
 
 export default {
   name: 'Home',
   components: {
-    HelloWorld
+    ProfitMarket
   }
 }
 </script>
