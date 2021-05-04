@@ -1,9 +1,7 @@
 <template>
-  <div class="Shop">
+  <div class="container Shop">
     <h1 class="title p-3">Your Shop</h1>
-    <div class="container">
-      <ProfilMerchant></ProfilMerchant>
-    </div>
+    <ShopProfil></ShopProfil>
   </div>
 </template>
 
@@ -16,13 +14,13 @@
 
 <script>
 // @ is an alias to /src
-import ProfilMerchant from '@/components/ProfilMerchant.vue'
+import ShopProfil from '@/components/ShopProfil.vue'
 
 
 export default {
   name: 'Shop',
   components: {
-    ProfilMerchant
+    ShopProfil
   }
 }
 </script>
