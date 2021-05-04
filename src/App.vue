@@ -1,13 +1,14 @@
 <template>
   <div id="app">
     <div class="img-logo">
-      <img class="img-fluid" src="./assets/shoptitanslogo.png" alt="">
+      <img class="img-fluid" :src="require('./assets/shoptitanslogo.png')" alt="Logo">
     </div>
     <div id="nav">
       <router-link to="/">Market Profit Calculator</router-link> |
-      <router-link to="/shop">Your Shop</router-link>
+      <router-link to="shop">Your Shop</router-link>
     </div>
     <router-view/>
+
     <Footer></Footer>
   </div>
 </template>
@@ -18,7 +19,7 @@
 import Footer from "@/components/Footer";
 
 export default {
-  name: 'Shop',
+  name: 'app',
   components: {
     Footer
   }
@@ -57,6 +58,9 @@ export default {
 a
   text-decoration: none
 
+p
+  margin: 0
+
 body
   background: #2183e8
 
@@ -87,11 +91,10 @@ body
   font-size: $size-subtitle
 
 .title-paragraphe
-  padding: 50px 0
+  padding: 10px 0
   font-family: $font-title-paragraphe
   font-size: $size-title-paragraphe
   letter-spacing: 1px
-  text-align: center
 
 .paragraphe
   font-family: $font-paragraphe
@@ -100,7 +103,7 @@ body
   line-height: 28px
   font-weight: 300
   max-width: 850px
-  margin: auto
+
 
 
 #nav

@@ -1,30 +1,21 @@
 <template>
-  <div class="home">
+  <div class="container home">
     <h1 class="p-3 title">profit calculator</h1>
-
-    <div class="container">
-      <ProfitMarket></ProfitMarket>
-    </div>
+    <Market></Market>
   </div>
 </template>
 
 
-<style lang="sass">
-
-</style>
 
 
 
 <script>
-// @ is an alias to /src
-import ProfitMarket from '@/components/ProfitMarket.vue'
-
-
+import Market from "@/components/Market";
 
 export default {
   name: 'Home',
   components: {
-    ProfitMarket
+    Market
   }
 }
 </script>

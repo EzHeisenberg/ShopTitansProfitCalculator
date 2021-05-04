@@ -1,5 +1,4 @@
 <template>
-
   <footer class="container-wbg footer">
     <div class="navigation-bar-social">
       <ul class="items-social" id="navbar-social">
@@ -19,14 +18,14 @@
           </a>
         </li>
         <li>
-          <a href="mailto:lucas-reteau@outlook.fr" id="mail-social">
+          <a href="mailto:reteau.lucas-pro@outlook.fr" id="mail-social">
             <img src="../assets/SocialNavigation/mail.png" alt="Icon Mail">
           </a>
         </li>
       </ul>
     </div>
     <div class="logo-ez">
-      <img src="../assets/favicon-night.png" alt="" width="40">
+      <img src="../assets/favicon-night.png" alt="">
     </div>
     <div class="footer-navigation">
         <p>Made with ♥️</p>
@@ -78,11 +77,9 @@ a.link-style-2
   &:hover
     color: #1d1d1d
 
-
 .footer-navigation
   font-family: $font-title-paragraphe
   text-align: center
-
 
 
 .navigation-bar-social
@@ -114,6 +111,10 @@ a.link-style-2
   padding: 5px
   display: flex
   justify-content: center
+  img
+    height: 40px
+    width: 40px
+
 
 
 @media screen and (max-width: 1020px)
